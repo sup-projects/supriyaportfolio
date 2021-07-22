@@ -1,14 +1,14 @@
 # Portfolio Website
 
 ### Click below to view my portfolio website
-[Click Here](https://sup-projects.github.io/)
+[Click Here](https://sup-projects.github.io/supriyaportfolio/)
 
 ## An attractive portfolio website with lucid information flow for Developers!
 
 
 <p align="center"> 
   <kbd>
-  	<a href="https://sup-projects.github.io/" target="_blank">
+  	<a href="https://sup-projects.github.io/supriyaportfolio/" target="_blank">
 		
 	</a>
   </kbd>
