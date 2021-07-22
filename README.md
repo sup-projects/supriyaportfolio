@@ -8,9 +8,9 @@
 
 <p align="center"> 
   <kbd>
-  	<a href="https://sup-projects.github.io/supriyaportfolio/" target="_blank">
+  	<a href="image.png" target="_blank">
 		
-	
+	</a>
   </kbd>
 </p>
 
