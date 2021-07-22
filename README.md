@@ -10,7 +10,7 @@
   <kbd>
   	<a href="image.png" target="_blank">
 		
-	</a>
+	
   </kbd>
 </p>
 
