@@ -8,7 +8,8 @@
 
 <p align="center"> 
   <kbd>
-  	<a href="image.png" target="_blank">
+  	<a href="image.png">
+	  </a>
 		
 	
   </kbd>
